@@ -19,3 +19,6 @@ hint() {
     curl -s lalyo.sh/hist | tail -${lines}
 }
 alias r="source $BASH_SOURCE"
+
+
+#here was Gabor
